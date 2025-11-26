@@ -28,7 +28,7 @@ style={styles.headerImage}
 <View style={styles.contentContainer}>
 {/* Título e Subtítulo */}
 <Text style={styles.title}>Maragogi</Text>
-<Text style={styles.subtitle}>São Paulo</Text>
+<Text style={styles.subtitle}>Alagoas</Text>
 {/* Texto de Descrição */}
 <Text style={styles.description}>
 Maragogi é uma cidade turística na costa do Oceano Atlântico, no leste do Brasil. É conhecida pelas suas longas 

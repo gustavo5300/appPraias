@@ -82,7 +82,7 @@ setModalVisible(!isModalVisible);
 <View style={styles.modalOverlay}>
 {/* Caixa de conteúdo do modal */}
 <View style={styles.modalContent}>
-<Text style={styles.modalText}>Desenvolvido por: Aluno</Text>
+<Text style={styles.modalText}>Desenvolvido por: Gustavo Antunes - 2025</Text>
 <TouchableOpacity
 
 style={styles.modalCloseButton}
